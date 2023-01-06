@@ -5,7 +5,7 @@ Generate test code and data by effectively.
 
 ## Data Types
 ### Primitive Types
-* Booleans
+* Boolean
 * String
 * Integer
 * Float
@@ -17,4 +17,4 @@ Generate test code and data by effectively.
 * XML
 * Enum
 * Tuple
-* List
+* List...
